@@ -49,6 +49,5 @@ I'm a Full Stack coder and specialize in both front/back-end software applicatio
 <p align="center">
 <a href="https://www.rogeliop.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.rogeliop.dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/rogeliop98/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rogelio%20Pedraza-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/nalgashuangas/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nalgashuangas-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:lovecore@pm.me"><img alt="Email" src="https://img.shields.io/badge/Email-lovecore@pm.me-blue?style=flat-square&logo=protonmail"></a>
 </p>
