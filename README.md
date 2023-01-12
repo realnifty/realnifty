@@ -37,17 +37,19 @@ I'm a Full Stack coder and specialize in both front/back-end software applicatio
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realnifty&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realnifty&theme=buefy&layout=compact" />
+<p align="center">
+<a href="https://github.com/realnifty">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=realnifty&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=realnifty&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.rogeliop.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.rogeliop.dev-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://rogeliop.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-rogeliop.dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/rogeliop98/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rogelio%20Pedraza-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:lovecore@pm.me"><img alt="Email" src="https://img.shields.io/badge/Email-lovecore@pm.me-blue?style=flat-square&logo=protonmail"></a>
 </p>
